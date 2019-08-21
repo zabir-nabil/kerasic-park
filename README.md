@@ -6,25 +6,20 @@
 </div>
 
 <p align="center">
-	<a href="awesome.md">Kerasic Park</a>&nbsp;&nbsp;&nbsp;
-	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
-	<a href="create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://twitter.com/awesome__re">Twitter</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://www.redbubble.com/people/sindresorhus/works/30364188-awesome-logo">Stickers & t-shirts</a>
+	<a href="#">Kerasic Park</a>&nbsp;&nbsp;&nbsp;
+	<a href="#">Contribution guide</a>&nbsp;&nbsp;&nbsp;
+	<a href="#">Weight Files</a>
 </p>
 
 <br>
 
 <div align="center">
-	<b>Follow the <a href="https://twitter.com/awesome__re">Awesome Twitter account</a> for updates on new list additions.</b>
+	<b>Contribute by adding a new model in the list.</b>
 </div>
 
 <br>
 
-<p align="center">
-	<sub>Just type <a href="https://awesome.re"><code>awesome.re</code></a> to go here. Check out my <a href="https://blog.sindresorhus.com">blog</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
-</p>
-<br>
+
 
 
 ## Contents
@@ -42,15 +37,11 @@
 
 ## Image Classification
 
-- [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
-	- [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
-- [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
+- [Keras Application](https://keras.io/applications/) - Keras Pre-trained Models.
+	- [Xception](https://keras.io/applications/#xception) - Xception.
 
 ## Image Captioning
 
-- [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
-	- [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
-- [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
 
 ## Object Detection
 
@@ -74,7 +65,6 @@
 ## Credits
 
 - [Awesome](https://github.com/sindresorhus/awesome) - Templates.
-- [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
 
 ## License
 
